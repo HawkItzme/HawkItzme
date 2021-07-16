@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HawkItzme
 - 👀 I’m interested in Android Development and ML.
 - 🌱 I’m currently learning Android Development (in Android Studio) & ML.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? So here's my LinkedIn Profile - 
        www.linkedin.com/in/syedmdquasim-3008
 
