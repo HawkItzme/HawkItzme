@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HawkItzme
-- 👀 I’m interested in Android Development and an Open source contribtution.
+- 👀 I’m interested in Android Development and the Open source contribtution.
 - 🌱 I’m currently learning Android Development & Cloud technology.
 - 📫 How to reach me ? So here's my LinkedIn Profile - 
        www.linkedin.com/in/syedmdquasim-3008
