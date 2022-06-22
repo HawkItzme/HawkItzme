@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **Syed Quasim**
 - 👀 I’m an *Android Developer* and interested in *Open-source contribtution*.
-- 🌱 I’m currently learning *Devops*.
 - 📫 --> [LinkedIn Profile](www.linkedin.com/in/syedmdquasim-3008)
 
 <!---
