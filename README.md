@@ -10,10 +10,27 @@ I am more inclined towards open-source which leads me to collaborate & contribut
 
 - 🔭 I’m currently working on multiple Android Applications and also contributing to Open Source projects.<br>
 - 🌱 I’m currently learning DSA, ML & DevOps.<br>
-- 🤔 I’m looking for the help with DSA, ML & DevOps.<br>
+- 🤔 I’m looking for the help with ML on Android & DevOps.<br>
 - 💬 Let's discuss about **Kotlin, Java, Android, Linux, C++, Python & DevOps.**
 - 🤝 I'm open to collaborating on interesting Android projects.
 - 📬 Reach me on: <a href="www.linkedin.com/in/syedmdquasim-3008"> LinkedIn </a>
+
+## Languages & Skills
+<p>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 ## Socials
 <p>
