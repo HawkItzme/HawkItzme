@@ -1,7 +1,7 @@
 [![@syed_droid's Holopin board](https://holopin.me/syed_droid)](https://holopin.io/@syed_droid)
 
   <h1 align="center">Hi, I'm Syed Quasim! Great to see you here👋</h1>
-  <h3 align="center">A cinephile-droid🤖 Android App developer from India 🇮🇳</h3>
+  <h3 align="center">A cinephile-droid🤖 developing Android Application</h3>
  
 I am a passionate and self-taught Android Developer who loves building Native Android Apps (Java/Kotlin).<br>
 I am more inclined towards open-source which leads me to collaborate & contribute to various open-source projects.
