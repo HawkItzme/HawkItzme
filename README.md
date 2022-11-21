@@ -1,4 +1,4 @@
--[![@syed_droid's Holopin board](https://holopin.me/syed_droid)](https://holopin.io/@syed_droid)
+[![@syed_droid's Holopin board](https://holopin.me/syed_droid)](https://holopin.io/@syed_droid)
 
 <p>
   <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><b>Hello there, I'm Syed Quasim👋</b></h1>
