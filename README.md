@@ -8,6 +8,13 @@
   <h4 align="left"><b><i>"It’s okay to be confused. Confusion is the route to all clarity in the world."</i></b></h4>
 </p>
 
+
+- 🔭 I’m currently building Android Applications and also contributing to Open Source projects.<br>
+- 🌱 I’m currently learning DSA in Java and DevOps.<br>
+- 🤔 I’m looking for help with DevOps and DSA.<br>
+- 💬 Ask me about **Kotlin, Java, Android, C++, Python**
+- 📬 How to reach me: <a href="www.linkedin.com/in/syedmdquasim-3008"> LinkedIn </a>
+
 ## PROFILES
 
 <p>
@@ -18,12 +25,6 @@
   <img align="left" alt="Quasim's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
     
 </p>
-
-- 🔭 I’m currently building Android Applications and also contributing to Open Source projects.<br>
-- 🌱 I’m currently learning DSA in Java and DevOps.<br>
-- 🤔 I’m looking for help with DevOps and DSA.<br>
-- 💬 Ask me about **Kotlin, Java, Android, C++, Python**
-- 📬 How to reach me: <a href="www.linkedin.com/in/syedmdquasim-3008"> LinkedIn </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HawkItzme&theme=aura&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
