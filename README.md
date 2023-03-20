@@ -13,6 +13,7 @@ I am more inclined towards open-source which leads me to collaborate & contribut
 - 🤔 I’m looking for the help with ML on Android & DevOps.<br>
 - 💬 Let's discuss about **Kotlin, Java, Android, Linux, C++, Python & DevOps.**
 - 🤝 I'm open to collaborating on interesting Android projects.
+- 📖 Read my Blogs on: <a href="https://itsmequasim.hashnode.dev/"> Hashnode </a>
 - 📬 Reach me on: <a href="www.linkedin.com/in/syedmdquasim-3008"> LinkedIn </a>
 
 ## Languages & Skills
