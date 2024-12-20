@@ -1,20 +1,34 @@
 [![@syed_droid's Holopin board](https://holopin.me/syed_droid)](https://holopin.io/@syed_droid)
 
-  <h1 align="center">Hi, I'm Syed Quasim! Great to see you here👋</h1>
-  <h3 align="center">A cinephile-droid🤖 developing Android Application</h3>
+  <h1 align="center">👋 Hey there! I’m Syed Quasim</h1>
+  <h5 align="center"><b><i>"It’s okay to be confused. Confusion is the route to all clarity in the world."</i></b></h5>
+  <h3 align="center">A Cinephile Droid 🤖 with a passion for Native Android Development. I’m a self-taught Android Developer specializing in Java and Kotlin, and I live for building intuitive, seamless apps. 🚀</h3>
  
-I am a passionate and self-taught Android Developer who loves building Native Android Apps (Java/Kotlin).<br>
-I am more inclined towards open-source which leads me to collaborate & contribute to various open-source projects.
+💻 What drives me?
+I’m a huge advocate for open-source and love collaborating with others on impactful projects. Contributing to the community is where I thrive, and I believe that’s how we push the boundaries of what’s possible in Android development.<br>
+🌍 Currently working remotely as an Android Developer with over a year of hands-on experience. I’m gaining expertise in building scalable and high-performance apps while working with talented teams across the globe.<br>
 
- <h5 align="center"><b><i>"It’s okay to be confused. Confusion is the route to all clarity in the world."</i></b></h5>
+🔭 What’s currently on my plate?<br>
+I’m working remotely as an Android Developer with over a year of experience, currently focused on two exciting projects:
+- A service-based Android app using Java and C++ native libraries for a healthcare-related solution, with BLE communication, running on specialized embedded hardware for displaying UI output.
+- A Kotlin and Jetpack Compose app, where I handle BLE communication and build intuitive, modern UIs.
 
-- 🔭 I’m currently working on multiple Android Applications and also contributing to Open Source projects.<br>
-- 🌱 I’m currently learning DSA, ML & DevOps.<br>
-- 🤔 I’m looking for the help with ML on Android & DevOps.<br>
-- 💬 Let's discuss about **Kotlin, Java, Android, Linux, C++, Python & DevOps.**
-- 🤝 I'm open to collaborating on interesting Android projects.
-- 📖 Read my Blogs on: <a href="https://itsmequasim.hashnode.dev/"> Hashnode </a>, <a href="https://medium.com/@smquasim016"> Medium </a>
-- 📬 Reach me on: <a href="www.linkedin.com/in/syedmdquasim-3008"> LinkedIn </a>
+🧠 What’s on my learning radar?
+- GenAI on Android
+- Kotlin Multiplatform (KMP) for building cross-platform apps.
+- DevOps practices
+- Mastering DSA to solve complex problems!
+- 🔧 Exploring Android’s Core and System-level Mechanisms
+I’m expanding my understanding of system-level aspects of Android and other operating systems, focusing on their underlying architectures, memory management, process handling, and interactions with hardware. I am learning about how Android interacts with the Linux Kernel, and I’m diving into the AOSP (Android Open Source Project) to explore how it shapes Android's architecture, resource management, and app execution. This knowledge gives me deeper insights into how the Android system operates at a low level and how resources are managed across different environments, allowing for better optimization and customizations.
+
+🤝 Let’s collaborate
+If you're into Android, Kotlin, Java, Linux, C++, or Python, let’s chat! I’m always open to new opportunities and collaborations. Whether it’s building cool apps or exploring new technologies, I’m excited to connect.
+
+📖 Read my Blogs on:
+- <a href="https://itsmequasim.hashnode.dev/"> Hashnode </a>
+- <a href="https://medium.com/@smquasim016"> Medium </a>
+
+📬 Reach me on: <a href="www.linkedin.com/in/syedmdquasim-3008"> LinkedIn </a>
 
 ## Languages & Skills
 <p>
