@@ -13,7 +13,7 @@ I am more inclined towards open-source which leads me to collaborate & contribut
 - 🤔 I’m looking for the help with ML on Android & DevOps.<br>
 - 💬 Let's discuss about **Kotlin, Java, Android, Linux, C++, Python & DevOps.**
 - 🤝 I'm open to collaborating on interesting Android projects.
-- 📖 Read my Blogs on: <a href="https://itsmequasim.hashnode.dev/"> Hashnode </a>
+- 📖 Read my Blogs on: <a href="https://itsmequasim.hashnode.dev/"> Hashnode </a>, <a href="https://medium.com/@smquasim016"> Medium </a>
 - 📬 Reach me on: <a href="www.linkedin.com/in/syedmdquasim-3008"> LinkedIn </a>
 
 ## Languages & Skills
@@ -43,7 +43,7 @@ I am more inclined towards open-source which leads me to collaborate & contribut
 <a href="mailto:smquasim016@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://twitter.com/iam_quasim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 <a href="https://discord.com/channels/@me/Quasim#0851">
-  <img align="left" alt="Quasim's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Quasim's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
  <a href="https://leetcode.com/s_quasim/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
     
 </p>
